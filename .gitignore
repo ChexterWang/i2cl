@@ -1,0 +1,10 @@
+# compiled object file
+*.o
+*.obj
+*.a
+*.la
+*.lib
+
+# pa1
+pa1/minisat/*
+pa1/hw1-2.pdf

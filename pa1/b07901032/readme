@@ -1,0 +1,12 @@
+Instruction:
+
+python3 pigeonhole2cnf.py [n] [m] [f]
+
+n = number of pigeons
+m = number of holes
+f = location of output file
+
+Every argument is necessary.
+
+cnf.xx are output files from the py program.
+sat.xx are output files from minisat.
